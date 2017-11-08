@@ -37,9 +37,7 @@ Code is available.
 
 You can download in [here](https://github.com/ChunbiaoZhu/VWM/)
 
-requirement:
-
-theano, lasagne and PIL
+Requirement: theano, lasagne and PIL
 
 Run "python TPRPN_demo.py"
 
