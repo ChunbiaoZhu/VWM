@@ -48,9 +48,9 @@ You can download in [here](https://github.com/ChunbiaoZhu/VWM/)
 
     2.How to use
     
-    Run TPRPN_demo.py, You can download in [here](https://github.com/ChunbiaoZhu/VWM/blob/master/TPRPN_demo.py)
+    Run TPRPN_demo.py, You can download in here(https://github.com/ChunbiaoZhu/VWM/blob/master/TPRPN_demo.py)
 
-    3.The trained model is available in [OneDrive](https://1drv.ms/u/s!Ai2piCK4u8Cygl6_aV0YKRNFuSur).
+    3.The trained model is available in OneDrive(https://1drv.ms/u/s!Ai2piCK4u8Cygl6_aV0YKRNFuSur).
 
     Step1: Download the model "TPRPN.pkl.gz" .
 
