@@ -59,11 +59,11 @@ You can download in [here](https://github.com/ChunbiaoZhu/VWM/)
     4. Download Image folder, put your test image(*.jpg) into this folder.
 
 
-## DATASET-Part1
+## VWM-DATASET
 
 Dataset is public.
 
-You can download in [here](https://github.com/ChunbiaoZhu/VWM/blob/master/VWM-DATASET-Part1.zip)
+You can download in [here](https://github.com/ChunbiaoZhu/VWM/blob/master/VWM-DATASET.zip)
 
 ## Cite this paper as:
 
