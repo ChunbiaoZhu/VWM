@@ -31,33 +31,6 @@ our method is superior to the existing object detection methods
 ## Framework
 ![QFramework saliency detection](https://github.com/ChunbiaoZhu/VWM/blob/master/framework.png)
 
-## CODE
-
-Code is available.
-
-You can download in [here](https://github.com/ChunbiaoZhu/VWM/)
-
-
-    1.Requirement:
-
-    theano
-
-    lasagne
-
-    PIL 
-
-    2.How to use
-    
-    Run TPRPN_demo.py, You can download in here(https://github.com/ChunbiaoZhu/VWM/blob/master/TPRPN_demo.py)
-
-    3.The trained model is available in OneDrive(https://1drv.ms/u/s!Ai2piCK4u8Cygl6_aV0YKRNFuSur).
-
-    Step1: Download the model "TPRPN.pkl.gz" .
-
-    Step2: Put the "TPRPN.pkl.gz" in TPRPN-Master.
-    
-    4. Download Image folder, put your test image(*.jpg) into this folder.
-
 
 ## VWM-DATASET
 
